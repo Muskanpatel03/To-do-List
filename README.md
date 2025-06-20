@@ -18,4 +18,5 @@ You can add tasks, mark them as completed, and delete them. The tasks are saved 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Muskanpatel03/To-do-List.git
+   git clone
+   https://github.com/Muskanpatel03/To-do-List.git
